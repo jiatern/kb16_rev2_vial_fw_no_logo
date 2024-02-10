@@ -2,7 +2,8 @@
 An expansion on thompson-vii's firmware. https://github.com/thompson-vii/kb16_rev2_vial_fw
 
 Changes from thompson-vii's firmware.
-- Added additional macro slots currently at 64 slots
+- Added additional macro slots; currently at 64 slots
+- Added additional tapdance slots.
 - Expanded the memory avaliable to macros
 - Disabled qmk features for firmware memory reduction
     - COMBO_ENABLE
