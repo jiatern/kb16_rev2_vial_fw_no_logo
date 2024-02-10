@@ -11,6 +11,8 @@ Changes from thompson-vii's firmware.
 - Reduced RGB modes for firmware memory reduction
 - Added RGB and OLED timeout after 1000 ms
 
+Compiled using the https://github.com/vial-kb/vial-qmk repository.
+
 Compiled firmware for doio's kb16 rev2
 
 Not compatible with via. Must use vial.
