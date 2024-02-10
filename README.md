@@ -6,8 +6,8 @@ Changes from thompson-vii's firmware.
 - Added additional tapdance slots.
 - Expanded the memory avaliable to macros
 - Disabled qmk features for firmware memory reduction
-    - COMBO_ENABLE
-    - KEY_OVERRIDE_ENABLE
+    - COMBO_ENABLE = 0
+    - KEY_OVERRIDE_ENABLE = 0
 - Reduced RGB modes for firmware memory reduction
 - Added RGB and OLED timeout after 1000 ms
 
