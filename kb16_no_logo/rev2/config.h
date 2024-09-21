@@ -42,13 +42,14 @@
     #define I2C1_SCL_PIN B10
     #define I2C1_SDA_PIN B11
     #define I2C_DRIVER I2CD2
+	#define OLED_BRIGHTNESS 88
 
     /* Use the custom font */
     #define OLED_FONT_H "./lib/glcdfont.c"
 #endif
 
 /* OLED Settings */
-#define OLED_TIMEOUT 60000 // number of milliseconds to wait until OLED automatically turns off
+#define OLED_TIMEOUT 1000 // number of milliseconds to wait until OLED automatically turns off
 
 /* Encoder pins */
 #define ENCODERS_PAD_A { B5, A1, A3 }
