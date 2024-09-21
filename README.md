@@ -9,7 +9,8 @@ Changes from thompson-vii's firmware.
     - COMBO_ENABLE = 0
     - KEY_OVERRIDE_ENABLE = 0
 - Reduced RGB modes for firmware memory reduction
-- Added RGB and OLED timeout after 1000 ms
+- Added OLED timeout after 1000 ms
+- OLED Brightness set to 88
 
 Compiled using the https://github.com/vial-kb/vial-qmk repository.
 
